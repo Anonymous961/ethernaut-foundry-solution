@@ -18,7 +18,7 @@ contract Player {
     }
 }
 
-contract Level0Solution is Script {
+contract CoinflipSolution is Script {
     CoinFlip public coinflip =
         CoinFlip(0xa3e7317E591D5A0F1c605be1b3aC4D2ae56104d6);
 
